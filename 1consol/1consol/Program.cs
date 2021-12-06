@@ -34,7 +34,7 @@ namespace _1consol
                     }
                     catch
                     {
-                        Console.WriteLine($"y({i})=error");
+                        Console.WriteLine($"y({i:f2})=error");
                     }
             }
             catch (Exception)
